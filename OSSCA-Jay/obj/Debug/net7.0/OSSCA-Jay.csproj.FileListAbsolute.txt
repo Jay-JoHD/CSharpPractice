@@ -1,0 +1,14 @@
+/Users/handong/Desktop/WorkSpace/OSSCA/OSSCA-Jay/OSSCA-Jay/bin/Debug/net7.0/OSSCA-Jay
+/Users/handong/Desktop/WorkSpace/OSSCA/OSSCA-Jay/OSSCA-Jay/bin/Debug/net7.0/OSSCA-Jay.deps.json
+/Users/handong/Desktop/WorkSpace/OSSCA/OSSCA-Jay/OSSCA-Jay/bin/Debug/net7.0/OSSCA-Jay.runtimeconfig.json
+/Users/handong/Desktop/WorkSpace/OSSCA/OSSCA-Jay/OSSCA-Jay/bin/Debug/net7.0/OSSCA-Jay.dll
+/Users/handong/Desktop/WorkSpace/OSSCA/OSSCA-Jay/OSSCA-Jay/bin/Debug/net7.0/OSSCA-Jay.pdb
+/Users/handong/Desktop/WorkSpace/OSSCA/OSSCA-Jay/OSSCA-Jay/obj/Debug/net7.0/OSSCA-Jay.GeneratedMSBuildEditorConfig.editorconfig
+/Users/handong/Desktop/WorkSpace/OSSCA/OSSCA-Jay/OSSCA-Jay/obj/Debug/net7.0/OSSCA-Jay.AssemblyInfoInputs.cache
+/Users/handong/Desktop/WorkSpace/OSSCA/OSSCA-Jay/OSSCA-Jay/obj/Debug/net7.0/OSSCA-Jay.AssemblyInfo.cs
+/Users/handong/Desktop/WorkSpace/OSSCA/OSSCA-Jay/OSSCA-Jay/obj/Debug/net7.0/OSSCA-Jay.csproj.CoreCompileInputs.cache
+/Users/handong/Desktop/WorkSpace/OSSCA/OSSCA-Jay/OSSCA-Jay/obj/Debug/net7.0/OSSCA-Jay.dll
+/Users/handong/Desktop/WorkSpace/OSSCA/OSSCA-Jay/OSSCA-Jay/obj/Debug/net7.0/refint/OSSCA-Jay.dll
+/Users/handong/Desktop/WorkSpace/OSSCA/OSSCA-Jay/OSSCA-Jay/obj/Debug/net7.0/OSSCA-Jay.pdb
+/Users/handong/Desktop/WorkSpace/OSSCA/OSSCA-Jay/OSSCA-Jay/obj/Debug/net7.0/OSSCA-Jay.genruntimeconfig.cache
+/Users/handong/Desktop/WorkSpace/OSSCA/OSSCA-Jay/OSSCA-Jay/obj/Debug/net7.0/ref/OSSCA-Jay.dll

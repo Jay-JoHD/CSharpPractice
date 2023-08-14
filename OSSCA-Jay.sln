@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSSCA-Jay", "OSSCA-Jay\OSSCA-Jay.csproj", "{B4DC58D6-9DEB-443B-A267-A04055016469}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyConsoleApp", "MyConsoleApp\MyConsoleApp.csproj", "{81033290-713A-4595-8087-C15DDE0030FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4DC58D6-9DEB-443B-A267-A04055016469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4DC58D6-9DEB-443B-A267-A04055016469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4DC58D6-9DEB-443B-A267-A04055016469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4DC58D6-9DEB-443B-A267-A04055016469}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81033290-713A-4595-8087-C15DDE0030FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81033290-713A-4595-8087-C15DDE0030FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81033290-713A-4595-8087-C15DDE0030FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81033290-713A-4595-8087-C15DDE0030FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
